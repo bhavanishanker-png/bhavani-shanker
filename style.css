@@ -1,0 +1,33 @@
+*{
+    font-family: "Gill Sans";
+    margin: 10px;
+}
+body{
+    justify-content: center;
+}
+.Hero{
+    position: absolute;
+    margin-left: 200px;
+}
+.Hero h1{
+    font-size: 50px;
+    position: absolute;
+    margin-left: 450px;
+    margin-right: 80px;
+
+}
+.About pre{
+    font-size: 25px;
+    position: relative;
+    margin-left: 550px;
+    margin-top: 5px;
+}
+.abc a{
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 40px;
+}
+.About pre{
+    font-size: 30px;
+}
